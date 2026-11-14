@@ -49,5 +49,4 @@ I'm now more patient, empathetic and confident in communicating with others afte
 
 ## Connect with me
 
-Interested in meeting students and professionals in system design, software development and project management. I welcome discussions on projects, experiences and ways to build my skills.
 You can [Connect with me on LinkedIn](https://www.linkedin.com/in/george-singh/)
