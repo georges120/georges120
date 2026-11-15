@@ -15,7 +15,7 @@ That was an experience that really got me interested in design. I take that same
 
 ## Network Engineer Assistant — Hertz
 I helped install new data cabinets and connect the existing network infrastructure to the new equipment. My work included structured cabling, patching connections, testing cable continuity and documenting cabling layouts.
-IT engineers, network engineers, project managers, and other team members explained to me how they managed to work together and minimise disruption. It also taught me the importance of keeping good records when a system needs to be maintained or a fault tracked.
+IT engineers, network engineers, project managers, and other team members explained to me how they managed to work together and minimise disruption. It also taught me the importance of keeping good records when a system needs to be maintained, or a fault tracked. I worked alongside a network engineer and the in-house IT support team at Hertz. This helped me understand how different IT roles work together when updating network equipment. I learned the importance of clear communication, accurate cabling records and keeping disruption to a minimum.
 
 ## Assistant Web Developer — i3MEDIA
 I helped develop and maintain websites, troubleshoot technical issues and improve website performance. Designed and developed page layouts, navigation and interfaces to meet clients' needs.
