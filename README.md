@@ -28,7 +28,7 @@ I’m now developing my knowledge of Python, C++ and system design. I'm very int
 
 ## University project
 
-Fantasy Character Manager
+### [Fantasy Character Manager](https://github.com/georges120/Fantasy-character-manager)
 
 My Software Development project is a Python application to create and manage fantasy characters. Players can supply character details via a form, look for characters, total up the gold and save and load character records with CSV files.
 It provided me with exposure to object-oriented programming, input validation, GUI and testing. It also helped me to see why it is important to test the visible form in addition to checking the code.
