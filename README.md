@@ -1,6 +1,6 @@
 ## George Singh  👋🏾
 
-**Computer Science & AI Student | Systems Analysis & Design | Aspiring Technical Project Manager**
+**Computer Science & AI Student | Systems Analysis & Design | IT Service Delivery Manager**
 
 ## About me
 
