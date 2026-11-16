@@ -38,8 +38,7 @@ It provided me with exposure to object-oriented programming, input validation, G
 
 ## What I’m working on 
 
-I'm getting better at building my confidence as a programmer and becoming better at explaining what I'm doing in terms of what decisions I'm making. I want to get better at understanding what causes an error and at explaining why a solution is effective.
-I’m also developing my organisation and time management. Working on smaller projects allows me to see the progress and plan time for testing and enhancements. These are the skills I would like to develop for future project management work.
+I'm getting better at building my confidence as a programmer and becoming better at explaining what I'm doing in terms of what decisions I'm making. I want to get better at understanding what causes an error and at explaining why a solution is effective. I want to improve my organisation, time management and communication so I can help teams deliver reliable IT services in my future career. Smaller projects allow me to see the progress and plan time for testing and enhancements.
 
 
 
