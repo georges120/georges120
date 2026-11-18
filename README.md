@@ -8,7 +8,7 @@ I am a Computer Science and AI student at Teesside University London. I am a Sik
 In my past projects as a web developer and in network infrastructure,  I have seen how important communication, planning and attention to detail are for a successful project. I want to use that experience going forward and find myself eventually in IT Service Delivery helping teams provide reliable IT services and support users.
 
 ## Creativity and achievements
-I was 9 when I won a Tesco design competition and my artwork was printed on 5,000 Tesco shopping bags. I also got to meet the management team of the store. It's always been one of my proudest moments when I've seen people use something I made.
+I was 9 when I won a Tesco design competition and my artwork was printed on 500 Tesco shopping bags. I also got to meet the management team of the store. It's always been one of my proudest moments when I've seen people use something I made.
 That was an experience that really got me interested in design. I take that same curiosity with me when I deal with technology I think about how it looks, how it works, and how people are going to use that technology.
 
 ## Technical experience
